@@ -8,3 +8,8 @@ Stone Paper Scissor or Rock Paper Scissor is a game that is played between two p
 - Paper vs Scissor -> Scissor wins
 
 In this game, the user is asked to play aganist the computer or another player. 
+
+<h2>Language used </h2>
+ <b> C++ </b>
+
+<h2> Program walk-through </h2>
